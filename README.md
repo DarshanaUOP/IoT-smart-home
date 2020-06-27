@@ -1,4 +1,7 @@
 # IoT-smart-home
+### LINKS
+* [Facebook link](https://www.facebook.com/aces.hackathon/photos/a.2087656128163281/2087649421497285) <br/>
+* <img src = "https://scontent.fcmb4-1.fna.fbcdn.net/v/t1.0-9/34731825_2087649424830618_637622607016886272_n.jpg?_nc_cat=110&_nc_sid=0debeb&_nc_ohc=g9ZNu2N-dcsAX8UzY_y&_nc_ht=scontent.fcmb4-1.fna&oh=1573049a8e4c2e1983bb012ce3d0b5d5&oe=5F1B9D49">
 
 ### DESCRIPTION
 IoT-smart-home Hackethon 2018
